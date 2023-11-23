@@ -1,0 +1,29 @@
+.catalogo {
+    display: flex;
+}
+
+
+.oversize {
+    width: 65%; 
+    height: 260px 110px; 
+    margin-left: 15%;
+    margin-top: 25%;
+}
+
+
+.over__title {
+    margin-left: 15%;
+    font-size: 3vh;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.over__link {
+    margin-left: 15%;
+    font-size: 1.8vh;
+    font-family: 'Montserrat', sans-serif;
+    color: #111111;
+    text-decoration: none;
+}
+
+
+

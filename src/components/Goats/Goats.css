@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+
+.goats__title {
+    margin-top: 80px;
+    font-size: 30px;
+    margin-left: 20%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.goats__img {
+    margin-top: 2%;
+    margin-left: 13%;
+    width: 22%;
+}
+
+.goats__img1 {
+   
+    margin-left: 5%;
+    width: 22%;
+}
+
+
+.goats__img2 {
+    margin-left: 5%;
+    width: 22%;
+}
+
+.goats__subtitle {
+    margin-left: 12.7%;
+    font-size: 19px;
+}
+
+.goats__subtitle p {
+    font-size: 19px;
+    margin-top: -2px;
+    margin-right: 2%;
+}
+
+.goats__subtitle1 {
+    margin-left: 40%;
+    font-size: 19px;
+    margin-top: -95px;
+}
+
+.goats__subtitle1 p {
+    font-size: 19px;
+    margin-top: -2px;
+    margin-right: 2%;
+}
+
+.goats__subtitle2 {
+    margin-left: 67%;
+    font-size: 19px;
+    margin-top: -95px;
+}
+
+.goats__subtitle2 p {
+    font-size: 19px;
+    margin-top: -2px;
+    margin-right: 2%;
+}
+
+.goats__subtitle3 {
+    margin-left: 13%;
+    font-size: 19px;
+    margin-top: 0.2%;
+}
+
+.goats__subtitle3 p {
+    font-size: 19px;
+    margin-top: 0.1%;
+    margin-right: 2%;
+}
+
+.goats__subtitle4 {
+    margin-left: 40%;
+    font-size: 19px;
+    margin-top: -95px;
+}
+
+.goats__subtitle4 p {
+    font-size: 19px;
+    margin-top: -2px;
+    margin-right: 2%;
+}
+
+.goats__subtitle5 {
+    margin-left: 67%;
+    font-size: 19px;
+    margin-top: -95px;
+}
+
+.goats__subtitle5 p {
+    font-size: 19px;
+    margin-top: -2px;
+    margin-right: 2%;
+}
+
+.goats__subtitle6 {
+    margin-left: 12.7%;
+    font-size: 19px;
+}
+
+.goats__subtitle6 p {
+    font-size: 19px;
+    margin-top: -2px;
+    margin-right: 2%;
+}

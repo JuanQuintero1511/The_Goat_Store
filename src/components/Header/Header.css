@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&display=swap');
+
+
+
+header {
+	width:100%; /* Establecemos que el header abarque el 100% del documento */
+	overflow:hidden; /* Eliminamos errores de float */
+	margin-bottom:5px;
+
+}
+
+.wrapper {
+
+	width:90%; /* Establecemos que el ancho sera del 90% */
+	max-width:1000px; /* Aqui le decimos que el ancho máximo sera de 1000px */
+	margin:auto; /* Centramos los elementos */
+	overflow:hidden; /* Eliminamos errores de float */
+	padding-top: 1px; /* Relleno superior igual a la altura de la cabecera*/
+}
+
+header .logo {
+	color: #111111;
+	font-size:60px;
+	line-height:110px;
+	float:left;
+	font-family: 'Hurricane', cursive;
+
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+	color: #111111;
+	cursor: pointer;
+}
+
+header nav {
+	float:right;
+	line-height:110px;
+}
+
+header nav a {
+    font-family: 'Montserrat', sans-serif;
+	display:inline-block;
+	color:#111111;
+	text-decoration:none;
+	padding:10px 20px;
+	line-height:normal;
+	font-size:20px;
+	font-weight:bold;
+	-webkit-transition:all 500ms ease;
+	-o-transition:all 500ms ease;
+	transition:all 500ms ease;
+}
+
+header nav a:hover {
+	box-shadow: #111111;
+    color: rgb(77, 77, 77);
+}
+
+

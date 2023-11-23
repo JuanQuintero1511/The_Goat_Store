@@ -1,0 +1,21 @@
+.footer__title {
+    font-size: 7.8vh;
+    margin-top: 8%;
+    margin-left: 20%;
+    color: rgb(105, 105, 105);
+    font-family: 'Hurricane', cursive;
+}
+
+.footer__text {
+    text-align: justify;
+    width: 30rem;
+    margin-left: 20%;
+    font-size: 1.7vh;
+    color: rgb(105, 105, 105);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer__logo {
+    margin-top: -20%;
+    margin-left: 60%;
+}

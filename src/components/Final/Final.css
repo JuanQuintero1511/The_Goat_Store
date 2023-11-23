@@ -1,0 +1,26 @@
+.final__title {
+    font-size: 6vh;
+    font-family: 'Hurricane', cursive;
+    color: #111111;
+    margin-left: 10%;
+    padding: 5%;
+}
+
+.final__derechos {
+    padding: 5%;
+    margin-left: 9.9%;
+    margin-top: -10.2%;
+    color: rgb(105, 105, 105);
+}
+
+/* .final__conectar {
+    font-size: 2vh;
+    margin-left: 70%;
+    margin-top: -3%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.home__social-icon {
+    margin-left: 72.5%;
+    color: #111111;
+} */

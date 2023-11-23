@@ -1,0 +1,43 @@
+.historia__title {
+    font-size: 33px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 3%;
+}
+
+.historia__text {
+    text-align: center;
+    width: 60rem;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+
+.historia__text p{ 
+    font-size: 16.9px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(105, 105, 105);
+}
+
+.historia__img {
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.historia__img h1 {
+    margin-left: 37%;
+    margin-top: -30%;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.historia__img p {
+   width: 30rem;
+   margin-left: 37%;
+   font-family: 'Montserrat', sans-serif;
+   color: rgb(105, 105, 105);
+}
+
+.final {
+    margin-top: 10%;
+}

@@ -1,0 +1,24 @@
+.colecciones__title {
+    font-size: 30px;
+    padding: 3%;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.colecciones__subtitle {
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 39%;
+    margin-top: 10px;
+}
+
+
+.colecciones__img {
+    margin-left: 39%;
+}
+
+.coleccion {
+    width: 35%; 
+    height: 260px 120px; 
+}

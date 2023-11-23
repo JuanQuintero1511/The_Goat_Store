@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+.home__info {
+    margin-top: 10px;
+}
+
+.home__info {
+    font-size: 43px;
+    color: #111111;
+    line-height: -10vh;
+    margin-top: -240px;
+    text-align: left;
+    margin-left: 3.3%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.informacion p {
+    font-size: 18px;
+    color: #111111;
+    line-height: -10vh;
+    margin-top: 10px;
+    margin-left: 3.3%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.home__link {
+    font-size: 20px;
+    margin-top: -60%;
+    color: #111111;
+    line-height: -10vh;
+    margin-left: 3.3%;
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    width: fit-content;
+    min-width: 100px;
+    height: 45px;
+    padding: 8px;
+    border-radius: 5px;
+    border: 2.5px solid #E0E1E4;
+    box-shadow: 0px 0px 20px -20px;
+    cursor: pointer;
+    background-color: transparent;
+    transition: all 0.2s ease-in-out 0ms;
+    user-select: none;
+}
+
+
+.home__link:hover {
+    background-color: #F2F2F2;
+    box-shadow: 0px 0px 20px -18px;
+  }
+  
+.home__link:active {
+    transform: scale(0.95);
+  }
+
+.link__compra {
+    margin-top: -15px;
+    
+}
